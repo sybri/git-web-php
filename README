@@ -9,3 +9,5 @@ function master(){
 
 function master_pendant_b1(){
 }
+function localB1(){
+}
